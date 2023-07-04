@@ -13,7 +13,10 @@
 <!-- ![0pendesk](https://user-images.githubusercontent.com/43869046/228887303-b10f9d38-d20c-4fa5-a830-1e7203bba98a.png) -->
 
 <p align="center">
+<p align="center">
 <b>Opendesk</b> is a platform implemented to increase productivity for employers by giving them a wide range of tools to effectively manage their duties. One of this app's primary advantages is its capacity to reward employers for tasks performed, which promotes a healthy work atmosphere and motivates employees to provide their best effort. Also, Opendesk is intended to assist staff members in taking care of their mental health and lowering their stress levels at work, both of which may have a substantial influence on their general well-being and productivity.
+</p>
+
 </p>
 
 ![](/assets/opendesk.png)
