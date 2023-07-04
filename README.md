@@ -33,6 +33,14 @@
 
 --- 
 
+### Setting Up dev environment
+
+```shell
+  docker build --tag opendesk-web:latest .
+  docker run --name od-web -p 3000:3000 opendesk-web
+```
+
+
 ### Author
 
 @siddhantprateek
