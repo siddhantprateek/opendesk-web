@@ -28,7 +28,8 @@ jobs:
       - name: Build and push Docker image 
         uses: mr-smithers-excellent/docker-build-push@v6
         with:
-          context: .
+          image: siddhantprateek/opendesk-web
           push: true 
+          registry: docker.io
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
